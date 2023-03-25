@@ -12,6 +12,6 @@ Having 10+ years of experience in software development, I am constantly seeking 
 ### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/WillJSmith0808/WillJSmith0808/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/WillJSmith0808/WillJSmith0808/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/WillJSmith0808/WillJSmith0808/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/WillJSmith0808/WillJSmith0808/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+ -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
