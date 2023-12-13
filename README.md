@@ -5,7 +5,7 @@
 <br />
 
 <h1>💖 About Me 💖</h1>
-<img align="right" width="400" src="./assests/programmer.gif" />
+<img align="right" width="400" src="https://github.com/yamamoto9288/yamamoto9288/blob/main/assests/programmer.gif" />
 <p>
 I want to turn your desired ideas into reality!!! </p>
 <p>
