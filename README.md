@@ -1,5 +1,5 @@
 <h2 align="center" font-weight="bold">
-🌟✨ Welcome to the realm of Yamamoto Hamda! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I'm a JavaScript and Python frameworks engineer. I like to work with MERN stack and Flask. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
+🌟✨ Welcome to the realm of Yamamoto! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I'm a JavaScript and Python frameworks engineer. I like to work with MERN stack and Flask. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
 </h2>
 
 <br />
