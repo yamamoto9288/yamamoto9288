@@ -1,7 +1,17 @@
 <h2 align="center" font-weight="bold">
 🌟✨ Welcome to the realm of Yamamoto! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I'm a JavaScript and Python frameworks engineer. I like to work with MERN stack and Flask. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
 </h2>
-
+<br />
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%yamamoto9288%yamamoto9288&label=👀 View 👀&labelColor=%#000000&countColor=%#230A0209" />
+  <br><br>
+  <a href="mailto:yamamoto199288@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=#0A0209" alt="email of Yamamoto Hamada i.e.   yamamoto199288@gmail.com" /></a>
+  <a href="https://discordapp.com/users/brightman0808"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=#0A0209" alt="profile of Discord with username Yamamoto Hamada(yamamoto#0808)" ></a>
+  <a href="https://join.skype.com/invite/h56KyHR0qu5f"><img src="https://img.shields.io/badge/Skype-d5d5d5?style=for-the-badge&logo=skype&logoColor=#0A0209" alt="profile of Discord with username Yamamoto Hamada(bir#0808)" ></a>
+</div>
+<br />
+<img align="center" src="https://github.com/yamamoto9288/yamamoto9288/blob/main/assests/banner.png" />
+<br />
 <br />
 
 <h1>💖 About Me 💖</h1>
@@ -45,7 +55,14 @@ Firebase: Firestore, Real-time Database, Hosting, Cloud functions, Crashlytics, 
 Make no mistake, I have been developing for a LONG time and you can trust I'll get the job done right.
 <br/>
 Cheers and looking forward to hearing from you,
+<br />
 </p>
+<br />
+<img align="center" src="https://github.com/yamamoto9288/yamamoto9288/blob/main/assests/diploma.png" />
+<br />
+<br />
+<img align="center" src="https://github.com/yamamoto9288/yamamoto9288/blob/main/assests/google_certification.jpg" />
+<br />
 
 <h1 font-weight="bold">
   🌟 My Skills  
