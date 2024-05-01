@@ -1,3 +1,6 @@
+<br />
+<img align="center" src="https://github.com/yamamoto9288/yamamoto9288/blob/main/assests/banner.png" />
+<br />
 <h2 align="center" font-weight="bold">
 🌟✨ Welcome to the realm of Yamamoto! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I'm a JavaScript and Python frameworks engineer. I like to work with MERN stack and Flask. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
 </h2>
@@ -9,9 +12,6 @@
   <a href="https://discordapp.com/users/brightman0808"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=#0A0209" alt="profile of Discord with username Yamamoto Hamada(yamamoto#0808)" ></a>
   <a href="https://join.skype.com/invite/h56KyHR0qu5f"><img src="https://img.shields.io/badge/Skype-d5d5d5?style=for-the-badge&logo=skype&logoColor=#0A0209" alt="profile of Discord with username Yamamoto Hamada(bir#0808)" ></a>
 </div>
-<br />
-<img align="center" src="https://github.com/yamamoto9288/yamamoto9288/blob/main/assests/banner.png" />
-<br />
 <br />
 
 <h1>💖 About Me 💖</h1>
