@@ -8,9 +8,11 @@
 <div align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%yamamoto9288%yamamoto9288&label=view&labelColor=%23000&countColor=%230A0209" />
   <br><br>
-  <a href="mailto:yamamoto199288@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=#0A0209" alt="email of Yamamoto Hamada i.e.   yamamoto199288@gmail.com" /></a>
-  <a href="https://discordapp.com/users/brightman0808"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=#0A0209" alt="profile of Discord with username Yamamoto Hamada(yamamoto#0808)" ></a>
-  <a href="https://join.skype.com/invite/h56KyHR0qu5f"><img src="https://img.shields.io/badge/Skype-d5d5d5?style=for-the-badge&logo=skype&logoColor=#0A0209" alt="profile of Discord with username Yamamoto Hamada(bir#0808)" ></a>
+  <a href="mailto:yamamoto199288@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=#0A0209" alt="email of Yamamoto Hamada i.e. yamamoto199288@gmail.com" /></a>
+  <a href="https://t.me/brightman0808"><img src="https://img.shields.io/badge/Telegram-d5d5d5?style=for-the-badge&logo=telegram&logoColor=#0A0209" alt="profile of Telegram with username Yamamoto Hamada(brightman0808)" /></a>
+  <a href="https://discordapp.com/users/brightman0808"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=#0A0209" alt="profile of Discord with username Yamamoto Hamada(yamamoto#0808)" /></a>
+  <a href="https://join.skype.com/invite/h56KyHR0qu5f"><img src="https://img.shields.io/badge/Skype-d5d5d5?style=for-the-badge&logo=skype&logoColor=#0A0209" alt="profile of Skype with username Yamamoto Hamada" /></a>
+  <a href="https://teams.live.com/l/invite/FEA5DIcFDtUW0cr4wE"><img src="https://img.shields.io/badge/Teams-d5d5d5?style=for-the-badge&logo=microsoftteams&logoColor=#0A0209" alt="profile of Teams with username Yamamoto Hamada" /></a>
 </div>
 <br />
 
