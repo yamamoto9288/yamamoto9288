@@ -6,7 +6,7 @@
 </h2>
 <br />
 <div align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%yamamoto9288%yamamoto9288&label=view&labelColor=%23000&countColor=%230A0209" />
+<!-- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%yamamoto9288%yamamoto9288&label=view&labelColor=%23000&countColor=%230A0209" /> -->
   <br><br>
   <a href="mailto:yamamoto199288@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=#0A0209" alt="email of Yamamoto Hamada i.e. yamamoto199288@gmail.com" /></a>
 <!--   <a href="https://t.me/brightman0808"><img src="https://img.shields.io/badge/Telegram-d5d5d5?style=for-the-badge&logo=telegram&logoColor=#0A0209" alt="profile of Telegram with username Yamamoto Hamada(brightman0808)" /></a> -->
